@@ -12,7 +12,7 @@ The following languages are of particular interest:
 
 Example 1)
 
-sentences = [
+words = [
              "Happiness",
              "幸せ" #Japanese,
              "幸福" #Chinese,
@@ -28,7 +28,7 @@ This example shows that the internal representation may have a preference for sc
 
 Example 2)
 
-sentences = [
+words = [
              "نام" #Urdu,
              "नाम" #Hindi,
              "اسم" #Arabic
